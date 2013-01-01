@@ -41,6 +41,7 @@ Rickshaw.Graph = function(args) {
 			Rickshaw.Graph.Renderer.Line,
 			Rickshaw.Graph.Renderer.Bar,
 			Rickshaw.Graph.Renderer.Area,
+			Rickshaw.Graph.Renderer.Pie,
 			Rickshaw.Graph.Renderer.ScatterPlot
 		];
 

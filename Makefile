@@ -35,6 +35,7 @@ JS_FILES=\
 	src/js/Rickshaw.Graph.Renderer.Stack.js\
 	src/js/Rickshaw.Graph.Renderer.Bar.js\
 	src/js/Rickshaw.Graph.Renderer.Area.js\
+	src/js/Rickshaw.Graph.Renderer.Pie.js\
 	src/js/Rickshaw.Graph.Renderer.ScatterPlot.js\
 	src/js/Rickshaw.Graph.Smoother.js\
 	src/js/Rickshaw.Graph.Unstacker.js\
